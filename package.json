@@ -9,6 +9,7 @@
     "url": "https://github.com/roziscoding/grammy-vue.git"
   },
   "scripts": {
+    "prepublishOnly": "npm run build",
     "build": "tsc"
   },
   "keywords": [
