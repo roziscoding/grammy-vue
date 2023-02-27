@@ -3,6 +3,10 @@
   "version": "0.0.2",
   "description": "Simple hook to call Telegram API methods within Vue.js components",
   "main": "dist/index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/roziscoding/grammy-vue.git"
+  },
   "scripts": {
     "build": "tsc"
   },
