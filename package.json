@@ -1,6 +1,6 @@
 {
   "name": "grammy-vue",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Simple hook to call Telegram API methods within Vue.js components",
   "main": "dist/index.js",
   "repository": {
